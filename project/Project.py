@@ -96,7 +96,7 @@ class BookApp:
             if action:
                 action()  # არჩეული მოქმედების შესრულება.
             else:
-                print("გთხოვთ, აირჩიოთ ვალიდური ოპცია.")
+                print("გთხოვთ, აირჩიოთ შესაბამისი მოქმედება.")
 
     @staticmethod
     def show_menu():
